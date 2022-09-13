@@ -1,0 +1,46 @@
+body {
+    font-family: system-ui;
+    background: #f06d06;
+    text-align: center;
+  }
+  <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  <style>
+    
+    .red-text {
+      color: red;
+      font-family: Lobster, monochrome;
+    }
+  
+    h2 {
+      font-family: Lobster, monospace;
+      color : red
+    }
+  
+    p {
+      font-size: 16px;
+      font-family: monospace;
+      
+    }
+   ul {
+    list-style: none;
+  }
+   ol {
+    list-style: none;
+  }
+  
+    .thick-green-border {
+      border-color: green;
+      border-width: 10px;
+      border-style: solid;
+      border-radius: 50%;
+    }
+  
+    .larger-image {
+      width: 100px;
+    }
+  
+    .silver-background {
+      background-color: silver;
+    }
+  </style>
+  
